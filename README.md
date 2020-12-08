@@ -80,6 +80,9 @@ Para aplicações elétricas com cargas não previstas no escopo de funcionament
 ![image](https://user-images.githubusercontent.com/61891850/101522975-bc16f280-3966-11eb-9f8a-713a6310a6d3.png)
 
 
+PARA ACESSAR TODO CONTEUDO, SE DIRECIONAR PASTA "apresentacao", dentro da pasta será encontrado power point utilizado na apresentação do dia 08/12/2020 e o relatorio tecnico.
+
+
 
 
 
