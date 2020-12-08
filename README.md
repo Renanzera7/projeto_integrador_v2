@@ -76,4 +76,11 @@ Para aplicações elétricas com cargas não previstas no escopo de funcionament
 
 
 
+
+![image](https://user-images.githubusercontent.com/61891850/101522975-bc16f280-3966-11eb-9f8a-713a6310a6d3.png)
+
+
+
+
+
 *Renan Gomes Rosa*
